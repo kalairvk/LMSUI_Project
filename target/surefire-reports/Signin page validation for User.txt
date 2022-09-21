@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Signin page validation for User
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.294 s - in Signin page validation for User

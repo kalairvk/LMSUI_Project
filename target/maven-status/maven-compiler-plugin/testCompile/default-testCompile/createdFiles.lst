@@ -1,0 +1,7 @@
+stepDefinitions\CommonStep.class
+testRunner\TestRunner.class
+helperMethods\GenericFunctions.class
+stepDefinitions\SigInTests.class
+pageObjects\SignInPage.class
+context\ScnContext.class
+utils\ReadConfig.class
