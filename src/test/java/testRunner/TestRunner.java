@@ -17,10 +17,8 @@ import io.cucumber.junit.CucumberOptions;
 //				"html: target/cucumber",
 //				"json: target/cucumber.json"		
 		},
-		publish=true
+			publish=true
 		)
-
-
 
 public class TestRunner {
 

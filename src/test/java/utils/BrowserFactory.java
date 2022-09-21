@@ -1,4 +1,4 @@
-package stepDefinitions;
+package utils;
 
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -16,7 +16,7 @@ import context.ScnContext;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import utils.ReadConfig;
 
-public class CommonStep {
+public class BrowserFactory {
 	ReadConfig config;
 	String br;
 	

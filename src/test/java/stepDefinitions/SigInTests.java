@@ -7,10 +7,11 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObjects.SignInPage;
+import utils.BrowserFactory;
 import utils.ReadConfig;
 
 
-public class SigInTests extends CommonStep{
+public class SigInTests extends BrowserFactory{
 	ReadConfig config;
 	ScnContext cs;
 	

@@ -1,2 +1,2 @@
-[INFO ] 2022-09-20 23:07:12,615 CommonStep.setUp() - Launched browser
-[INFO ] 2022-09-20 23:07:17,871 CommonStep.user_is_on_the_sigin_page_on_lms_site() - Application launched
+[INFO ] 2022-09-21 10:00:41,352 CommonStep.setUp() - Launched browser
+[INFO ] 2022-09-21 10:00:47,044 CommonStep.user_is_on_the_sigin_page_on_lms_site() - Application launched
