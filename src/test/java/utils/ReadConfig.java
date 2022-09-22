@@ -9,7 +9,7 @@ public class ReadConfig {
 	public ReadConfig(){
 		
 		 try {
-				FileInputStream fis= new FileInputStream("src\\test\\java\\config\\config.properties");
+				FileInputStream fis= new FileInputStream("src/test/java/config/config.properties");
 				prop= new Properties();
 				prop.load(fis);
 			} catch (Exception e) {
